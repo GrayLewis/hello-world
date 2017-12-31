@@ -2,4 +2,4 @@
 
 Initial repository for learning to use GitHub.
 
-You can't feel the air of other planets if you're not starting something new.
+You can't feel air from other planets if you're not starting something new.
